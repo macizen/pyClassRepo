@@ -13,3 +13,5 @@ to see it in action, you can see the video linked in "visualDocumentation" or do
 <img src="visualDocumentation/grayKirby.png" alt="gray kirby" width="25%" height="auto">
 <img src="visualDocumentation/orangeKirby.png" alt="orange kirby" width="25%" height="auto">
 <img src="visualDocumentation/blackKirby.png" alt="black kirby" width="25%" height="auto">
+
+[temporary video hosting](https://streamable.com/5vix8u)
