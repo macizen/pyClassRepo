@@ -5,7 +5,7 @@ for this assignment i used py5 vectors to make a portrait of kirby (from the pop
 i wanted to add variation to this sketch, so i added an interaction that makes kirby's color palette switch when the user clicks on the screen, with each click randomly choosing from any of the possible color combinations.
 below are images of all of the possible colors and a video example of user interaction.
 
-![regular kirby](visualDocumentation/regularKirby.png){width="10%"}
+![regular kirby](visualDocumentation/regularKirby.png)
 ![blue kirby](visualDocumentation/blueKirby.png)
 ![red kirby](visualDocumentation/redKirby.png)
 ![yellow kirby](visualDocumentation/yellowKirby.png)
