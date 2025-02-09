@@ -1,4 +1,4 @@
-# interactive kirby portrait
+# color-changing kirby
 ### mac's assignment 2 - CC python 
 for this assignment i used the py5 framework to make a portrait of kirby (from the popular nintendo video game series.)
 i wanted to add variation to this sketch, so i added an interaction that makes kirby's color palette switch when the user clicks on the screen, with each click randomly choosing from any of the possible color combinations.
