@@ -6,6 +6,7 @@ i wanted to add variation to this sketch, so i added an interaction that makes k
 below are images of all of the possible colors and a video example of user interaction.
 
 <img src="visualDocumentation/regularKirby.png" alt="regular kirby" width="10%" height="auto">
+<img src="visualDocumentation/blueKirby.png" alt="blue kirby" width="10%" height="auto">
 ![blue kirby](visualDocumentation/blueKirby.png)
 ![red kirby](visualDocumentation/redKirby.png)
 ![yellow kirby](visualDocumentation/yellowKirby.png)
