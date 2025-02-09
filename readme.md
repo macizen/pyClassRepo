@@ -1,4 +1,4 @@
-# FIRST CREATIVE CODING PYTHON COURSE REPOSITORY
+# CREATIVE CODING PYTHON COURSE REPOSITORY
 I will use this repo to store projects I made in Parsons Creative Coding Python Class
 ---
 projects:
