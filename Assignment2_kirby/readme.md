@@ -14,4 +14,4 @@ below are images of all of the possible colors and a video example of user inter
 <img src="visualDocumentation/orangeKirby.png" alt="orange kirby" width="25%" height="auto">
 <img src="visualDocumentation/blackKirby.png" alt="black kirby" width="25%" height="auto">
 
-![temp video link](https://streamable.com/5vix8u](https://streamable.com/5vix8u)
+[temp video link](https://streamable.com/5vix8u](https://streamable.com/5vix8u)
