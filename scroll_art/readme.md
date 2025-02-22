@@ -4,5 +4,5 @@ I modified one of Al Sweigart's examples of scroll art [(from his GitHub repo)](
 example of running the file with four arguments:
 ![arguments example](scroll_art_arguments.jpeg)
 ![example 1 gif](scroll_art_ex1.gif)
-when no arguments are passed, or only some are, the remainder will be filled in
+when no arguments are passed, or only some are, the remainder will be filled in with predetermined values
 ![example 2 gif](scroll_art_ex2.gif)
