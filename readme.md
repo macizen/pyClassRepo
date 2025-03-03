@@ -5,6 +5,8 @@ projects: [color-changing kirby](https://github.com/macizen/pyClassRepo/blob/mai
 
 [sine wave scroll art](https://github.com/macizen/pyClassRepo/blob/main/scroll_art/readme.md)
 
+[py turtle generative art](https://github.com/macizen/pyClassRepo/tree/main/turtle)
+
 ## link to something awesome below
 [my github](https://github.com/macizen)
 
