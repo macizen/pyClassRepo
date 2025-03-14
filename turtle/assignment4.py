@@ -3,7 +3,7 @@ import random
 
 turtle.title('generative chartes bleu rouge')
 t = turtle.Turtle()
-turtle.tracer(0)
+# turtle.tracer(0) <-- this and the "update" at the end of the script is used to draw the image at instant speed
 t.speed(0)
 t.color("#121511")
 t.pensize(5)
@@ -44,6 +44,6 @@ for y in range(30):
 
 t.hideturtle()
 
-turtle.update()
+# turtle.update()
 
 turtle.mainloop()
