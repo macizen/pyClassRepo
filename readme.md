@@ -7,6 +7,8 @@ projects: [color-changing kirby](https://github.com/macizen/pyClassRepo/blob/mai
 
 [py turtle generative art](https://github.com/macizen/pyClassRepo/tree/main/turtle)
 
+[two player shooter game](https://github.com/macizen/pyClassRepo/tree/main/pygame)
+
 ## link to something awesome below
 [my github](https://github.com/macizen)
 
