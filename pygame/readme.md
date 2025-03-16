@@ -5,6 +5,7 @@
 player 1: wasd for movement, x to shoot
 
 player 2: ijkl for movement, m to shoot
+
 ---
 I modified the example game we made in class to make a two player version where each player competes against the other to get the most points possible.
 The basic features of the game are of course moving and shooting, but also a scoreboard that counts each player's score, a "magazine" that represents how many bulelts each player has, and randomly spawning ammo boxes that players can use to refill their bullets.
