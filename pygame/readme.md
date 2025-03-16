@@ -3,6 +3,7 @@
 
 ### CONTROLS:
 player 1: wasd for movement, x to shoot
+
 player 2: ijkl for movement, m to shoot
 
 I modified the example game we made in class to make a two player version where each player competes against the other to get the most points possible.
