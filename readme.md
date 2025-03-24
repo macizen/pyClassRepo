@@ -9,6 +9,8 @@ projects: [color-changing kirby](https://github.com/macizen/pyClassRepo/blob/mai
 
 [two player shooter game](https://github.com/macizen/pyClassRepo/tree/main/pygame)
 
+[spotify data vis](https://github.com/macizen/pyClassRepo/tree/main/datavis)
+
 ## link to something awesome below
 [my github](https://github.com/macizen)
 
