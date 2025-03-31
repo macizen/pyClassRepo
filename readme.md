@@ -11,6 +11,8 @@ projects: [color-changing kirby](https://github.com/macizen/pyClassRepo/blob/mai
 
 [spotify data vis](https://github.com/macizen/pyClassRepo/tree/main/datavis)
 
+[smalls web scraping](https://github.com/macizen/pyClassRepo/tree/main/web_scraping)
+
 ## link to something awesome below
 [my github](https://github.com/macizen)
 
