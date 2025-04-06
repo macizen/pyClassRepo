@@ -36,4 +36,4 @@ sampling_rate = model.config.audio_encoder.sampling_rate
 scipy.io.wavfile.write("musicgen_out.wav", rate=sampling_rate, data=audio_values[0, 0].numpy())
 ```
 i made a folder in this repo where you can see my inputs and results:
-(put link here)
+[folder](https://github.com/macizen/pyClassRepo/tree/main/use-llms/results)
