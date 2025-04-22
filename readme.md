@@ -13,6 +13,8 @@ projects: [color-changing kirby](https://github.com/macizen/pyClassRepo/blob/mai
 
 [smalls web scraping](https://github.com/macizen/pyClassRepo/tree/main/web_scraping)
 
+[bad dice roller](https://github.com/macizen/pyClassRepo/blob/main/gui-tkinter/readme.md)
+
 ## link to something awesome below
 [my github](https://github.com/macizen)
 
