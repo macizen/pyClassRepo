@@ -33,3 +33,7 @@ At the top of my code, I have the line 'clock.tempo = 135' which can be sent to 
 
 ## what i learned
 Because of how difficult the setup was, I learned a lot about managing python versions and working with VSCode. There were also a lot of issues with the library I chose, but I think it was probably the best option for me to use with python. Because of that, another takeaway is that python is probably not the best language for live coding. If I were to do this again, I would probably want to use javascript, with the strudel library, which seems like a much better live coding tool.
+
+### credits
+[ableton extended computer midi keyboard](https://abletonkurse.gumroad.com/)
+[sardine library](https://github.com/Bubobubobubobubo/sardine)
