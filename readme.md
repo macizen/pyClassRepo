@@ -15,6 +15,8 @@ projects: [color-changing kirby](https://github.com/macizen/pyClassRepo/blob/mai
 
 [bad dice roller](https://github.com/macizen/pyClassRepo/blob/main/gui-tkinter/readme.md)
 
+[live code final project](https://github.com/macizen/pyClassRepo/tree/main/final_project)
+
 ## link to something awesome below
 [my github](https://github.com/macizen)
 
